@@ -1,8 +1,8 @@
 business, Transaction_Occurence, Price_Old, Total_Cost, Hedera, Total_Cost, Savings
-debitsuccess, 100, $1.74, $174, 0.00014, $173.986
-debitsuccess, 1000, $1.74, $$1740, 0.00014, $1739.86
-debitsuccess, 10000, $1.74, $$17400, 0.00014, $17398.6
-debitsuccess, 100000, $1.74, $$174000, 0.00014, $173986
+debitsuccess, 100, $1.74, $174, 0.00014, 0.014, $173.986
+debitsuccess, 1000, $1.74, $$1740, 0.00014, 0.14,  $1739.86
+debitsuccess, 10000, $1.74, $$17400, 0.00014, 1.14, $17398.6
+debitsuccess, 100000, $1.74, $$174000, 0.00014, 11.4, $173986
 payadvantage, 100, 0.88, 88, 0.00014, 0.014, 87.986
 payadvantage, 1000, 0.88, 888, 0.00014, 0.14, 879.86
 payadvantage, 10000, 0.88, 8888, 0.00014, 1.14, 8798.6
