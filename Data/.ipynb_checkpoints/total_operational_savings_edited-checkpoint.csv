@@ -1,4 +1,4 @@
-business, Transaction_Occurence, Price_Old, Total_Cost, Hedera, Total_Cost_hedera, Savings
+business, Transaction_Occurence, Price_Old, Total_Cost, Hedera, Total_Cost, Savings
 debitsuccess, 100, 1.74, 174, 0.00014, 0.014, 173.986
 debitsuccess, 1000, 1.74, 1740, 0.00014, 0.14,  1739.86
 debitsuccess, 10000, 1.74, 17400, 0.00014, 1.14, 17398.6
