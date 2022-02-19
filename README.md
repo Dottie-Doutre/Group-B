@@ -1,45 +1,54 @@
 # ![image_add](Images/Gympay.png)
 
-## Project Members:
- Anthony Mura, Paaras Dhaliwal , Dorothy Doutre
+## Project (GroupB) - GymPay
+___
+Minimizing transaction, operational and admin costs by utilising blockchain technology for fitness centres and professionals with a SaaS application called GymPay.
 
-### Project Outline:
+## Getting Started
+- input instructions here -
 
-- Minimizing transaction, operational and admin costs by utilising blockchain technology for fitness centres and professionals
+## Built With
+Jupyter-lab
 
-#### Research Questions to Answers
+Panel (Pygal, numpy, seaborn, hvplot, matplotlib, plotly.express)
 
+## Research Questions
+What is the market demographic?
+```
+Age, Income, Gender, Fitness Levels, Use Frequency, Location, Crypto User, Smartphone Use
+```
+What is the market size and oppurtunity?
+```
+Australia, Addressable Market
+```
+What is the competitive landscape?
+```
+Existing Providers, Upcoming competitors 
+```
+What is the cost/benefit for the fitness Centres and gym members? 
+```
+Cost/Benefit for fitness centres, Cost/Benefit for Gym members
+```
+## Example Analysis Images
+![image_add]()
 
-1. What is the market demographic? [Priorty Level 1]
+## Versioning
+Utilised a "sub" branch to input changes created before pushing into the main branch.
 
-- Age, Income, Gender, Fitness Levels, Use Frequency, Location , Crypto User , Smartphone Use
+## Contributing Sources
+Finder.com.au
 
-2. What is the market size and oppurtunity?[Priorty Level 1]
+Kaggle (Data Science platform by Google)
 
-- Australia, Addressable Market
+Statista (Market and consumer data aggregator)
 
-3. What is the competitive landscape?[Priorty Level 1]
+Australian Burea of Statistics
 
-- Existing Providers, Upcoming competitors 
+Fitness Australia (Independent Research Agency)
 
-4. What is the cost/benefit for the fitness Centres and gym members? [Priorty Level 2]
+## Authors
+Anthony Mura
 
-- Cost/Benefit for fitness centres, Cost/Benefit for Gym members
+Paaras Dhaliwal
 
-
-#### Datasets to be Used
-
-- Yahoo Finance
-- Statista
-- Australian Burea of Statistics
-- Crunchbase
-
-#### Breakdown of tasks
-
-1. Research Data (Anthony)
-
-2. Create dataframes of data (Dorothy and Paaras)
-
-3. Plot dataframes and create dashboard (Dorothy and Paaras)
-
-4. Prepare presentation (All team members)
+Dorothy Doutre
