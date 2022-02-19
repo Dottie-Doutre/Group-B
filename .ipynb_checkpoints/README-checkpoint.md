@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # ![image_add](Gympay.png)
+=======
+# ![image_add](Images/Gympay.png)
+>>>>>>> 026e1d692bb2d4b67a2c2c0711d0ae103e0d5c04
 
 ## Project Members:
  Anthony Mura, Paaras Dhaliwal , Dorothy Doutre
