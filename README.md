@@ -1,7 +1,6 @@
 # ![image_add](Images/Gympay.png)
 
 ## Project (GroupB) - GymPay
-___
 Minimizing transaction, operational and admin costs by utilising blockchain technology for fitness centres and professionals with a SaaS application called GymPay.
 
 ## Getting Started
