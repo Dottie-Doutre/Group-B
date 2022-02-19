@@ -3,6 +3,9 @@
 ## Project (GroupB) - GymPay
 Minimizing transaction, operational and admin costs by utilising blockchain technology for fitness centres and professionals with a SaaS application called GymPay.
 
+## View Dashboard Here -->
+https://nbviewer.org/github/Dottie-Doutre/GymPay/blob/sub/gympay_analysis.ipynb
+
 ## Getting Started
 - input instructions here -
 
