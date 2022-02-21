@@ -103,7 +103,7 @@ GymPay cost savings advantage will scale with size.
 
 Cost savings of Hedera (cryptocurrency example) scale linearly against all current payment methods.
 
-As an example with 10,000 transactions using the Hedera blockchain network, the gym owner would save $174,000.
+As an example with 100,000 transactions using the Hedera blockchain network, the gym owner would save $174,000.
 
 ![image_add](Images/Cost_savings.PNG)
  
