@@ -87,7 +87,7 @@ With this finding the serviceable addressabe market is approximately 72% of TAM 
 
 ![image_add](Plots/gym_data.png)
 
-![image_add](Plots/gym_user_bar.svg)
+![image_add](Plots/gym_horizontalbar_market_potential.svg)
 
 ### What is the existing alternative?
 This section was to understand the competitive landscape that can allow GymPay to innovate on points of weakness with the current competition.
