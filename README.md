@@ -87,7 +87,7 @@ With this finding the serviceable addressabe market is approximately 72% of TAM 
 
 ![image_add](Plots/gym_data.png)
 
-![image.add](Plots/bokeh_plot_smartphone_crypto_users.png)
+![image.add](Images/bokeh_plot_smartphone_crypto_users.png)
 
 ![image_add](Plots/gym_horizontalbar_market_potential.svg)
 
