@@ -111,7 +111,7 @@ As an example with 100,000 transactions using the Hedera blockchain network, the
 
 ![image_add](Images/traditional_vs_blockchain_price.png)
 
-![image_add](Plots/cost_savings_table.png)
+![image_add](Images/cost_savings_table.png)
 
 ## Versioning
 Two main branches used for version control.
