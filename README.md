@@ -6,7 +6,7 @@ Minimizing transaction, operational and admin costs by utilising blockchain tech
 ## Getting Started
 Using the chrome browser for best viewing, view the dashboard using the link below:
 
-https://nbviewer.org/github/Dottie-Doutre/GymPay/blob/sub/gympay_analysis.ipynb
+https://nbviewer.org/github/Dottie-Doutre/GymPay/blob/main/gympay_analysis.ipynb
 
 The dashboard is embedded for you to navigate between the tabs outlining our findings.
 
