@@ -15,6 +15,8 @@ The code in which was used to generate the dataframes, charts and conclusions ar
 ## Built With
 Jupyter-lab
 
+Python
+
 Panel (Pygal, numpy, seaborn, hvplot, matplotlib, plotly.express)
 
 ## Research Questions
@@ -31,7 +33,7 @@ What is the competitive landscape?
 Existing Providers, Cost/Benefit for fitness centres, Cost/Benefit for Gym members
 ```
 ## Summary of findings
-> Increase in smartphone users and cryptocurrency adoption, with a positive linear relationship via correlation analysis.
+> Increase in smartphone users and cryptocurrency adoption, with a strong negative linear relationship via correlation analysis.
 
 > There is a steady increase of gym establishments in Australia, with most of the age group demographic within the 25 up to 44 years dominating the use of gyms. 
 Addressing a large portion of the Australian population as a serviceable market.
@@ -57,9 +59,11 @@ Created a pn.pane using Matplotlib to add to dashboard.
 ```
 Conclusion:
 
-There is a steady increase in both crypto and smartphone users with a correlation factor of 0.69, leaning towards a more positive linear relationship between the two factors for our SaaS application.
+There is a steady increase in both crypto and smartphone users.
 
-Therefore there is a growing market for gym users and the utility use of GymPay.
+Through our analysis we concluded a correlation factor of -0.69, leaning towards a more negative linear relationship. This indicates for the time being there is a strong relationship between the two factors trending in a negative slope.
+
+But there is a potential for growing market for gym users and the utility use of GymPay.
 
 ![image_add](Images/heatmap.png)
 
