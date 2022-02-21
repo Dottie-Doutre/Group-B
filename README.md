@@ -65,7 +65,7 @@ Through our analysis we concluded a correlation factor of -0.69, leaning towards
 
 But there is a potential for growing market for gym users and the utility use of GymPay.
 
-![image_add](Images/heatmap.png)
+![image_add](Images/heatmap_cyrpto_smartphone_users.png)
 
 ### What is the Market Size Opportunity?
 This section of the analysis was to determine the size of the market and opportunity. Also to calculate the scale for a potential startup for investors and founders.
