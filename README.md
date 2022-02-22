@@ -12,6 +12,15 @@ The dashboard is embedded for you to navigate between the tabs outlining our fin
 
 The code in which was used to generate the dataframes, charts and conclusions are displayed below.
 
+# PDF Files of Research and Presentation
+
+Here are the PDF files of the market research and presentation we created to compliment the data anaylsis. You can click them below or find them above!
+
+![image_add](Images/research_and_presentation.png)
+
+1.[GymPay_Market_Research](https://github.com/Dottie-Doutre/GymPay/blob/main/GYMPAY_MARKET_RESEARCH_2022.docx.pdf)
+2.[GymPay_Presentation](https://github.com/Dottie-Doutre/GymPay/blob/main/Gympay_presentation.pdf)
+
 ## Built With
 Jupyter-lab
 
