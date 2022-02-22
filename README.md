@@ -18,7 +18,7 @@ Here are the PDF files of the market research and presentation we created to com
 
 ![image_add](Images/research_and_presentation.png)
 
-1.[GymPay_Market_Research](https://github.com/Dottie-Doutre/GymPay/blob/main/GYMPAY_MARKET_RESEARCH_2022.docx.pdf)
+1.[GymPay_Market_Research](https://github.com/Dottie-Doutre/GymPay/blob/main/GYMPAY_MARKET_RESEARCH_2022.docx.pdf)  
 2.[GymPay_Presentation](https://github.com/Dottie-Doutre/GymPay/blob/main/Gympay_presentation.pdf)
 
 ## Built With
