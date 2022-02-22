@@ -12,7 +12,7 @@ The dashboard is embedded for you to navigate between the tabs outlining our fin
 
 The code in which was used to generate the dataframes, charts and conclusions are displayed below.
 
-# PDF Files of Research and Presentation
+## PDF Files of Research and Presentation
 
 Here are the PDF files of the market research and presentation we created to compliment the data anaylsis. You can click them below or find them above!
 
